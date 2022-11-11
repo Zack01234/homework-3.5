@@ -1,8 +1,9 @@
-package com.example.homework3_5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+@SuppressWarnings("SpringBootApplicationSetup")
 @SpringBootApplication
 public class Application {
 
